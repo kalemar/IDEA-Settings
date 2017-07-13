@@ -11,6 +11,7 @@
     <variable name="NAME" expression="camelCase(CLASS)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
@@ -19,6 +20,7 @@
     <variable name="NAME" expression="camelCase(CLASS)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
@@ -52,6 +54,7 @@
     <variable name="DEFINITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
@@ -61,6 +64,7 @@
     <variable name="DEFINITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
