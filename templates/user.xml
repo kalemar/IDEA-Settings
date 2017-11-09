@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="inp" value="@Inject lateinit var $NAME$: $CLASS$" description="Inject Kotlin Property" toReformat="false" toShortenFQNames="true">
+  <template name="inp" value="@Inject internal lateinit var $NAME$: $CLASS$" description="Inject Kotlin Property" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="camelCase(CLASS)" defaultValue="" alwaysStopAt="false" />
     <context>
