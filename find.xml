@@ -21,17 +21,17 @@
       <mask>gra</mask>
       <mask>gr</mask>
       <mask>g</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
-      <mask>*.gra</mask>
       <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*Cal</mask>
       <mask>*Ca</mask>
       <mask>*C</mask>
       <mask>*d</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
