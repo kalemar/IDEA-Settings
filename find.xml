@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +19,6 @@
       <mask>*.mx</mask>
       <mask>*.m</mask>
       <mask>*.java</mask>
-      <mask>*.kt</mask>
       <mask>*.k</mask>
       <mask>gra</mask>
       <mask>gr</mask>
@@ -34,6 +34,7 @@
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
