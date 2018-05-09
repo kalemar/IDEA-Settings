@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*Usecase*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -32,6 +33,7 @@
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.kt</mask>
+      <mask>*Usecase*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
