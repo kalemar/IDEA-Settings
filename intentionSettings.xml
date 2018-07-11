@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Add braces" />
+    <ignoreAction name="Kotlin/Specify all types explicitly in destructuring declaration" />
   </component>
 </application>
